@@ -1,0 +1,3 @@
+=== WELCOME
+
+https://github.com/ipa-fmw-ak/Administration/wiki[HOME]
